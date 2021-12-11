@@ -1,0 +1,16 @@
+{
+  "name": "NincompoopScript",
+  "author": "Cléry Arque-Ferradou (cleeryy)",
+  "version": "BETA 0.1",
+  "license": "none",
+  "twitter": "@cleeryy",
+  "instagram": "@cleeryy",
+
+  "menu": {
+    "if": "Show your ifconfig",
+    "ipl": "Show your own local IP address",
+    "ipp": "Show your own public IP address",
+    "mac": "Show your MAC adress",
+    "quit": "Allow you to do the worst choice ;^;"
+  }
+}
